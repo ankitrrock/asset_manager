@@ -20,3 +20,4 @@ D:\New folder\Asset_manage\asset_manager\asset_manager\settings.py changed, relo
 [2025-06-25 18:40:37,332] INFO [django.server] "GET /swagger/?format=openapi HTTP/1.1" 200 3101
 [2025-06-25 18:40:37,333] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
 [2025-06-25 18:40:48,160] INFO [django.server] "GET /api/assets/ HTTP/1.1" 200 2
+[2025-06-25 18:59:59,080] INFO [django.utils.autoreload] Watching for file changes with StatReloader
